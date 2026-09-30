@@ -12,4 +12,5 @@
   <Project Path="11-Duplikat/11-Duplikat.csproj" Id="a22648a6-3075-4746-8a09-02f09a787edb" />
   <Project Path="12-InmatningTillFastArray/12-InmatningTillFastArray.csproj" Id="4d82cde6-c844-4ab9-8d0b-47ca50740db2" />
   <Project Path="13-VäxandeArray/13-VäxandeArray.csproj" Id="d118d5a2-8fe9-430d-aafc-2f86ffac3acd" />
+  <Project Path="14-RullandeLogg/14-RullandeLogg.csproj" Id="22638fd3-134b-4eb1-a3cb-3432d6fddc96" />
 </Solution>
