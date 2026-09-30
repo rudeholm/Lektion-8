@@ -3,4 +3,5 @@
   <Project Path="02-Inköpslista/02-Inköpslista.csproj" Id="fdb91c05-1c4b-4645-b3cb-4560c9496302" />
   <Project Path="03-Gästlistan/03-Gästlistan.csproj" Id="d8ed2ebc-9fd4-42ef-8c02-5e68db7b8791" />
   <Project Path="04-Temperaturer/04-Temperaturer.csproj" Id="511e9145-22bc-4821-ad77-1c3a9c4d335b" />
+  <Project Path="05-Baklänges/05-Baklänges.csproj" Id="69ce8f17-81fa-42f7-a09a-754694fdf41d" />
 </Solution>
