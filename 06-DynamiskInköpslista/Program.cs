@@ -4,12 +4,12 @@ efter en via Console.ReadLine(). När användaren skriver 'klar' ska loopen avsl
 skrivas ut i konsolen. */
 
 List<string> inköpslista = [];
-string input = "";
+string? input;
 
 do
 {
     input = Console.ReadLine();
-    if (input.ToLower() == "klar")
+    if (input.ToLower().Equals("klar"))
         break;
 
     inköpslista.Add(input);
