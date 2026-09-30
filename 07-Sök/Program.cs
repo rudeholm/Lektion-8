@@ -18,7 +18,8 @@ bool hittad = false;
 
 for (int i = 0; i < städer.Length; i++)
 {
-    if (sök.ToLower().Equals(städer[i].ToLower()))
+//    if (sök.ToLower().Equals(städer[i].ToLower()))
+    if (sök.Equals(städer[i], StringComparison.OrdinalIgnoreCase))
     {
         Console.WriteLine($"{städer[i]} hittades med index = {i}!");
         hittad = true;
