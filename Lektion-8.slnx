@@ -6,4 +6,5 @@
   <Project Path="05-Baklänges/05-Baklänges.csproj" Id="69ce8f17-81fa-42f7-a09a-754694fdf41d" />
   <Project Path="06-DynamiskInköpslista/06-DynamiskInköpslista.csproj" Id="1681adfd-ea52-4d98-8835-dd9f432a9b82" />
   <Project Path="07-Sök/07-Sök.csproj" Id="8b015a48-df1e-48ad-8ef9-cad7650d888f" />
+  <Project Path="08-Betygskollen/08-Betygskollen.csproj" Id="7ed9953c-c415-488d-abf0-4d350bcb6596" />
 </Solution>
