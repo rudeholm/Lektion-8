@@ -11,4 +11,5 @@
   <Project Path="10-Användarhantering/10-Användarhantering.csproj" Id="6ead4dc4-a998-4249-8f4e-2afb887d46bf" />
   <Project Path="11-Duplikat/11-Duplikat.csproj" Id="a22648a6-3075-4746-8a09-02f09a787edb" />
   <Project Path="12-InmatningTillFastArray/12-InmatningTillFastArray.csproj" Id="4d82cde6-c844-4ab9-8d0b-47ca50740db2" />
+  <Project Path="13-VäxandeArray/13-VäxandeArray.csproj" Id="d118d5a2-8fe9-430d-aafc-2f86ffac3acd" />
 </Solution>
