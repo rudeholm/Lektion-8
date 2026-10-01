@@ -13,5 +13,5 @@
   <Project Path="12-InmatningTillFastArray/12-InmatningTillFastArray.csproj" Id="4d82cde6-c844-4ab9-8d0b-47ca50740db2" />
   <Project Path="13-VäxandeArray/13-VäxandeArray.csproj" Id="d118d5a2-8fe9-430d-aafc-2f86ffac3acd" />
   <Project Path="14-RullandeLogg/14-RullandeLogg.csproj" Id="22638fd3-134b-4eb1-a3cb-3432d6fddc96" />
-  <Project Path="15-AvanceradRullandeLogg/15-Array-rotation.csproj" Id="63522f03-ae3b-42ae-aac6-75d68cd68a58" />
+  <Project Path="15-Array-rotation/15-Array-rotation.csproj" Id="3fac3e42-1493-41a4-bd69-b791037aac82" />
 </Solution>

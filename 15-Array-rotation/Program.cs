@@ -17,7 +17,7 @@ void RoteraArrayHöger(ref int[] arr)
 
     int temp = heltal[lastIndex];
 
-    for (int i = lastIndex; i>0; i--)
+    for (int i = lastIndex; i > 0; i--)
     {
         heltal[i] = heltal[i - 1];
     }
